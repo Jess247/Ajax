@@ -21,7 +21,8 @@ button {
   border-radius: 5px;
 }
 
-#lotteryNum {
+#lotteryNum,
+#response {
   background: lightgray;
   color: blue;
   width: 150px;
